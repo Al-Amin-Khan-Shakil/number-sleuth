@@ -1,0 +1,23 @@
+{
+  "name": "number-sleuth",
+  "version": "1.0.0",
+  "description": "In Number Sleuth, the computer picks a hidden number within a set range, and your goal is to guess it with the fewest possible attempts. After each guess, you’ll get hints like “Too high” or “Too low” until you hit the right number. The faster you solve the mystery, the higher your score!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.31.0",
+    "hint": "^7.1.13",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
